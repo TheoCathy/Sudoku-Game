@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=ButtonCtrls
+comment0.text=\n\ Write\ a\ description\ of\ class\ ButtonCtrls\ here.\n\n\ @author\ Theodora\ Orji\n\ @version\ 14th\ Jan\ 2024\n
+comment1.params=slot\ parentFrame\ cellButtons\ thegame
+comment1.target=ButtonCtrls(Slot,\ javax.swing.JFrame,\ Cell[][],\ Sudoku)
+comment1.text=\n\ Constructor\ for\ objects\ of\ class\ ButtonCtrls\n
+comment2.params=e
+comment2.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment3.params=cellButtons
+comment3.target=void\ loadGame(Cell[][])
+comment4.params=fileName\ cellButtons
+comment4.target=void\ saveGame(java.lang.String,\ Cell[][])
+comment5.params=cellButtons
+comment5.target=void\ undoMove(Cell[][])
+comment6.params=cellButtons
+comment6.target=void\ clearGame(Cell[][])
+numComments=7
